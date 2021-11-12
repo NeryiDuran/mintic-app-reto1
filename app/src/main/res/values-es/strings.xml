@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reto 1</string>
+
+    <string name="text_username">Nombre de Usuario</string>
+
+    <string name="text_email">correo@dominio.com</string>
+
+    <string name="text_password">Contraseña</string>
+
+    <string name="text_your_password">Su contraseña</string>
+
+    <string name="text_login">INGRESAR</string>
+
+
+</resources>
